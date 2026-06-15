@@ -67,7 +67,7 @@ author:
       url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/jacob-pancoast-2b26902bb"
+      url: "https://www.linkedin.com/in/jacob-pancoast-2b26902bb/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacob-pancoast17"
@@ -77,12 +77,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jacob-pancoast-2b26902bb/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/jacob-pancoast17"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
