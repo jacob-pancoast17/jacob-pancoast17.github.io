@@ -74,8 +74,10 @@ author:
       url: "https://github.com/jacob-pancoast17"
     - label: "jacob.pancoast@uvm.edu"
       icon: "fab fa-fw fa-envelope"
+      url: "mailto:jacob.pancoast@uvm.edu"
     - label: "jacob.pancoast17@gmail.com"
       icon: "fab fa-fw fa-envelope"
+      url: "mailto:jacob.pancoast17@gmail.com"
 
 footer:
   links:
@@ -87,8 +89,10 @@ footer:
       url: "https://github.com/jacob-pancoast17"
     - label: "jacob.pancoast@uvm.edu"
       icon: "fab fa-fw fa-envelope"
+      url: "mailto:jacob.pancoast@uvm.edu"
     - label: "jacob.pancoast17@gmail.com"
       icon: "fab fa-fw fa-envelope"
+      url: "mailto:jacob.pancoast17@gmail.com"
 
 defaults:
   # _posts
