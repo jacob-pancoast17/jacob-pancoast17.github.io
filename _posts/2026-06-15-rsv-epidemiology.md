@@ -1,5 +1,5 @@
 ---
-title: "RSV Epidemiology Analysis"
+title: "Vermont RSV Epidemiology Analysis"
 subtitle: "[Read here](https://jacob-pancoast17.github.io/epi-analysis/)"
 date: 2026-06-15T13:10:30-04:00
 ---
