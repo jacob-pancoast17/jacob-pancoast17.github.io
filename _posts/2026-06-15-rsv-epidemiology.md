@@ -13,7 +13,7 @@ Using methodologies spanning epidemiology, biostatistics, data science, and publ
 {% endcapture %}
 
 {% capture fig_caption %}
-[Read more here][rsv-epi]
+[Read more here](https://jacob-pancoast17.github.io/epi-analysis)
 {% endcapture %}
 
 <figure>
@@ -22,4 +22,3 @@ Using methodologies spanning epidemiology, biostatistics, data science, and publ
 </figure>
 
 [nrevss]: https://www.cdc.gov/nrevss/php/dashboard/index.html
-[rsv-epi]: https://jacob-pancoast17.github.io/epi-analysis
