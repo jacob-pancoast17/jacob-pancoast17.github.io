@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Jacob Pancoast"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "University of Vermont B.S. Candidate in Computer Science & Epidemiology Minor<br><br>Please feel free to reach out to my UVM email address, jacob.pancoast@uvm.edu or my personal email, jacob.pancoast17@gmail.com for any inquiries, or to connect."
+  bio    : "University of Vermont B.S. Candidate in Computer Science & Epidemiology Minor<br>UVM email: jacob.pancoast@uvm.edu<br>Personal email: jacob.pancoast17@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
