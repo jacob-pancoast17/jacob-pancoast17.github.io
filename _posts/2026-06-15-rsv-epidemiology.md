@@ -8,7 +8,7 @@ While exploring the National Respiratory and Enteric Virus Surveillance System (
 Using methodologies spanning epidemiology, biostatistics, data science, and public health, this analysis uncovers temporal trends in RSV epidemiology in Vermont from 2023-26 and discusses implications on public health policy and practices in R Markdown.
 
 {% capture fig_img %}
-[![RSV particles](rsv-banner.jpg)](https://jacob-pancoast17.github.io/epi-analysis)
+[![RSV particles](/assets/images/rsv-banner.jpg)](https://jacob-pancoast17.github.io/epi-analysis)
 {% endcapture %}
 
 {% capture fig_caption %}
