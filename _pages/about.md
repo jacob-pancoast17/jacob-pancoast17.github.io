@@ -11,7 +11,7 @@ My goal is to pursue a master's degree in computational epidemiology, and I'm ac
 
 Most recently, I analyzed temporal and magnitude abnormalities in Vermont's 2025-26 RSV season using wastewater data from [Data.CDC.gov][cdc]. Read more about it [here][rsv-epidemiology].
 
-Please feel free to reach out to my UVM email address, <jacob.pancoast@uvm.edu> or my personal email, <jacob.pancoast17@gmail.com> for any inquiries, or to connect.
+Outside of my work, I'm active in Club Pickleball and at the gym. I love exploring new places, and getting outdoors in Vermont to ski and hike. At home, I make terrariums to capture small fragments of the beauty I find out exploring.
 
 [cdc]: https://data.cdc.gov/Public-Health-Surveillance/CDC-Wastewater-Data-for-RSV/45cq-cw4i/about_data
 [rsv-epidemiology]: https://jacob-pancoast17.github.io/rsv-epidemiology/
