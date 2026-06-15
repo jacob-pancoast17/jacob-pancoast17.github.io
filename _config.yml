@@ -72,9 +72,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacob-pancoast17"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "jacob.pancoast@uvm.edu"
+      icon: "fab fa-fw fa-envelope"
+    - label: "jacob.pancoast17@gmail.com"
+      icon: "fab fa-fw fa-envelope"
 
 footer:
   links:
@@ -84,9 +85,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacob-pancoast17"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "jacob.pancoast@uvm.edu"
+      icon: "fab fa-fw fa-envelope"
+    - label: "jacob.pancoast17@gmail.com"
+      icon: "fab fa-fw fa-envelope"
 
 defaults:
   # _posts
